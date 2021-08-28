@@ -11,7 +11,7 @@
   ##
 
  <div>
-   <img align="right" alt="May-Gif" src="<iframe src="https://giphy.com/embed/OuMFETEGgiG6F2L3uO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/boxycharm-OuMFETEGgiG6F2L3uO">via GIPHY</a></p>">
+   <img align="right" alt="May-Gif" src="https://giphy.com/embed/OuMFETEGgiG6F2L3uO" width="480" height="480" frameBorder="0" >
   <a href="https://github.com/MayaraPerez">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MayaraPerez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraPerez&layout=compact&langs_count=7&theme=radical"/>

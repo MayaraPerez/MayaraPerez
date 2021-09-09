@@ -3,7 +3,7 @@
   ##
 
 - 🚀 Futura desenvolvedora Front-end
-- 🌱 Atualmente estudando JavaScript, Typescript
+- 🌱 Atualmente estudando JavaScript, Typescript, Sass
 - 💪 Me aprimorando ainda mais, em CSS e HTML
 - 💞️ Compartilhar a evolução dos meus projetos
 - 📫 Contate-me no e-mail: perezzmayara@gmail.com

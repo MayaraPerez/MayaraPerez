@@ -26,6 +26,6 @@
   
 </div>
    
-  <img src="https://tenor.com/bmGFr.gif" width="0" height="0">
+  <img align="center" alt="May-HTML" height="30" width="40" src="https://tenor.com/bmGFr.gif">
   
   ##

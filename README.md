@@ -26,6 +26,6 @@
   
 </div>
    
-  <img align="center" alt="May-HTML" height="100" width="60" src="">
+  <img src="C:\Users\Mayara\Desktop" width="350" alt="">
   
   ##

@@ -2,9 +2,9 @@
  
   ##
 
-- 🚀 Futura desenvolvedora Front-end
-- 🌱 Atualmente estudando Java, SQL
-- 💪 Me aprimorando ainda mais, em CSS e HTML
+- 🚀 Futura desenvolvedora
+- 🌱 Atualmente estudando Js, Java, SQL
+- 💪 Me aprimorando ainda mais, em CSS 
 - 💞️ Compartilhar a evolução dos meus projetos
 - 📫 Contate-me no e-mail: perezzmayara@gmail.com
 

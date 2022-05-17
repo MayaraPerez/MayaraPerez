@@ -1,4 +1,7 @@
   🙋 Olá, eu me chamo <strong> Mayara Perez !</strong>
+  Sou formada em Bacharel Estética e Cosmetologia desde 2017
+  Não atuo na área. 
+  Desde meados de 2021 estudo programação de forma autônoma, possuo alguns projetos finalizados no GitHub e outros que estão em desenvolvimento, hoje estou cursando       Técnico de desenvolvimento de sistema-Senac EAD.
  
   ##
 

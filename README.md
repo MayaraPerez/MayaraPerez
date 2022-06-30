@@ -24,7 +24,8 @@
   <img align="center" alt="May-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="May-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="May-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/88052519/176565958-b505b166-67c1-43ab-acda-64f62ab45bbd.png">
-  
+  <img align="center" alt="May-CSS" height="30" width="40" src="https://spng.pngfind.com/pngs/s/74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png">
+
   
 </div>
    

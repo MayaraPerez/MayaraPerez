@@ -7,7 +7,7 @@
  
   ##
 
-- 🚀 Futura desenvolvedora
+- 🚀 Desenvolvedora
 - 🌱 Atualmente estudando Js, Java, SQL
 - 💪 Me aprimorando ainda mais, em CSS e HTML
 - 💞️ Compartilhar a evolução dos meus projetos

@@ -2,8 +2,8 @@
   <br><br>Sou formada em Bacharel Estética e Cosmetologia desde 2017
   Não atuo na área. 👩🏻‍🎓 <br>
   Atualmente estou cursando Técnico de desenvolvimento de sistemas - senac EAD 👩🏼‍💻<br>
-  Mas eu já estudo programação desde meados de 2021, sendo de forma autônoma possuo <br>
-  Possuo projetos que estão disponíveis aqui alguns finalizados e outros estou implementando. 
+  Mas eu já estudo programação desde meados de 2021, de forma autônoma <br>
+  Possuo projetos que estão disponíveis aqui alguns já finalizados e outros em fase de implementação. 
  
   ##
 

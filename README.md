@@ -8,7 +8,7 @@
   ##
 
 - 🚀 Desenvolvedora
-- 🌱 Atualmente estudando Js, Java, SQL
+- 🌱 Atualmente estudando Java, SQL, Golang
 - 💪 Me aprimorando ainda mais, em CSS e HTML
 - 💞️ Compartilhar a evolução dos meus projetos
 - 📫 Contate-me no e-mail: perezzmayara@gmail.com

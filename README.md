@@ -1,4 +1,4 @@
-  🙋 Olá, eu me chamo <strong> Mayara Perez !</strong>
+   Olá, eu me chamo <strong> Mayara Perez !</strong>
   <br><br>Sou formada em Bacharel Estética e Cosmetologia desde 2017
   Não atuo na área. 👩🏻‍🎓 <br>
   Atualmente estou cursando Técnico de desenvolvimento de sistemas - senac EAD 👩🏼‍💻<br>

@@ -16,7 +16,7 @@ Programadora autodidata desde 2021 – Comecei minha jornada em programação de
 📂 Projetos em Destaque:  
 <br>
 <br>
-[Projeto 1 - API STUDENTS](https://github.com/MayaraPerez/api-students): Api para gereciamento de dados relacionado a estudantes.
+[API STUDENTS] (https://github.com/MayaraPerez/api-students): Api para gereciamento de dados relacionado a estudantes.
 
 <br>
 <br>

@@ -1,35 +1,24 @@
-   Olá, eu me chamo <strong> Mayara Perez !</strong>
-  <br><br>Sou formada em Bacharel Estética e Cosmetologia desde 2017
-  Não atuo na área. 👩🏻‍🎓 <br>
-  Atualmente estou cursando Técnico de desenvolvimento de sistemas - senac EAD 👩🏼‍💻<br>
-  Mas eu já estudo programação desde meados de 2021, de forma autônoma <br>
-  Possuo projetos que estão disponíveis aqui alguns já finalizados e outros em fase de implementação. 
- 
-  ##
+Olá, eu sou a Mayara Perez! 
+<br>
+<br>
+🎓 Formada em Bacharelado em Estética e Cosmetologia (2017) – Embora não atue diretamente na área, minha formação me ensinou a importância de entender o comportamento humano e aplicar soluções eficazes, o que se conecta muito com a experiência de desenvolvimento de sistemas.
 
-- 🚀 Desenvolvedora
-- 🌱 Atualmente estudando Java, SQL, Golang
-- 💪 Me aprimorando ainda mais, em CSS e HTML
-- 💞️ Compartilhar a evolução dos meus projetos
+💻 Técnica em Desenvolvimento de Sistemas - Senac EAD – Curso tecnico com foco em programação e soluções tecnológicas.
+
+🚀 Programadora autodidata desde 2021 – Comecei minha jornada em programação de forma independente, o que me levou a construir vários projetos práticos e desafiadores que você pode conferir abaixo!
+
+Habilidades e Tecnologias que estou aprendendo ou já utilizei:
+- Linguagens: Go,Java, JavaScript, TypeScript, SQL, React
+- Frameworks: Gin (Go), React
+- Ferramentas: Git, MySQL, SQLite
+- Outros: Arquitetura de software, Desenvolvimento de APIs RESTful, Padrões de projeto (Design Patterns)
+
+<br>
+<br>
+📂 Projetos em Destaque:
+
+[Projeto 1 - API STUDENTS](https://github.com/MayaraPerez/api-students): Api para gereciamento de dados relacionado a estudantes.
+
+
 - 📫 Contate-me no e-mail: perezzmayara@gmail.com
 
-  ##
-
-
-  
-  ##
-  
-  <h2>Linguagens</h2>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="May-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="May-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="May-CSS" height="50" width="60" src="https://user-images.githubusercontent.com/88052519/176565958-b505b166-67c1-43ab-acda-64f62ab45bbd.png">
-  <img align="center" alt="May-Js" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg">
-  <img align="center" alt="May-Js" height="50" width="60" src="https://s2.glbimg.com/twoewJmwpMgtGPcRPP8SxFlDVmM=/0x0:695x393/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/P/f/y52r4ySZWLkJjEhKLhgw/2014-11-14-java-logo.jpg">
-
-  
-</div>
-   
-  <img src="C:\Users\Mayara\Desktop" width="350" alt="">
-  
-  ##

@@ -6,6 +6,8 @@ Técnica em Desenvolvimento de Sistemas - Senac EAD – Curso tecnico com foco e
 
 Programadora autodidata desde 2021 – Comecei minha jornada em programação de forma independente, o que me levou a construir projetos práticos.
 
+Atualmente sou desenvolvedora junior backend da Globo.
+
 ### Habilidades e Tecnologias que estou aprendendo ou já utilizei:
 - Linguagens: Go,Java, JavaScript, TypeScript, SQL, React
 - Frameworks: Gin (Go), React

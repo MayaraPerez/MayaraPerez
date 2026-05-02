@@ -16,15 +16,22 @@ Atualmente sou desenvolvedora junior backend da Globo.
 
 <br>
 📂 Projetos em Destaque:  
+
+<br>
+<br>
+[TMDB API] ([https://github.com/MayaraPerez/flix-streaming]):<br> A aplicação é uma plataforma de streaming fictícia que permite aos usuários explorar filmes, visualizar detalhes, adicionar filmes aos favoritos e gerenciar suas contas.
+
+
 <br>
 <br>
 [API STUDENTS] (https://github.com/MayaraPerez/api-students):<br> Uma API desenvolvida para o gerenciamento de informações de estudantes, permitindo operações CRUD 
 <br>
 <br>
 [API RESTFULL] (https://github.com/MayaraPerez/api-product-manager):<br> Uma API RESTful projetada para o gerenciamento de produtos.
-                                                                     Inclui endpoints para criar, consultar, atualizar e deletar produtos.
+                                                                         Inclui endpoints para criar, consultar, atualizar e deletar produtos.
 <br>
 <br>
+
 <br>
 📫 Contate-me no e-mail: perezzmayara@gmail.com  
 
